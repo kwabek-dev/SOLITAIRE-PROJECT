@@ -49,7 +49,6 @@ if __name__ == "__main__":
     unittest.main()
 \`\`\`
 
-<img width="503" height="432" alt="Screenshot 2026-09-17 at 11 44 34 PM" src="https://github.com/user-attachments/assets/51fa1c47-3df2-4029-9376-f1c43630914f" />
 <img width="1063" height="86" alt="Screenshot 2026-09-17 at 11 02 01 PM" src="https://github.com/user-attachments/assets/05c96d13-2a3e-4df9-84bb-7feee7075040" />
 
 
